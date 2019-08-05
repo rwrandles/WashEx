@@ -1,0 +1,388 @@
+"","2001-02","2003-04","2005-06","2007-08","2009-10","2011-12","2013-14","2015-16","2017-18","2019-20"
+"1","House Committee on Agriculture & Ecology",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","House Committee on Appropriations",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","House Committee on Higher Education",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","House Committee on Judiciary",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","House Committee on Juvenile Justice",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","House Committee on Juvenile Justice & Family Law",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","House Committee on Local Government & Housing",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","House Committee on Natural Resources",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","House Committee on Rules",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","House Committee on Select Committee on Community Security",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","House Committee on Select Committee on Elections",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","House Committee on State Government",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","House Committee on Capital Budget",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","House Committee on Technology, Telecommunications & Energy",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","House Committee on Trade & Economic Development",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","House Committee on Transportation",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","Senate Committee on Agriculture & International Trade",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Senate Committee on Economic Development & Telecommunications",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","Senate Committee on Education",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","Senate Committee on Environment, Energy & Water",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","Senate Committee on Health & Long-Term Care",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","Senate Committee on Higher Education",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","Senate Committee on Human Services & Corrections",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","House Committee on Children & Family Services",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","Senate Committee on Judiciary",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","Senate Committee on Labor, Commerce & Financial Institutions",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","Senate Committee on Natural Resources, Parks & Shorelines",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","Senate Committee on Rules",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","Senate Committee on State & Local Government",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","Senate Committee on Transportation",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","Senate Committee on Ways & Means",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","House Committee on Commerce & Labor",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","House Committee on Criminal Justice & Corrections",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","House Committee on Education",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","House Committee on Finance",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","House Committee on Financial Institutions & Insurance",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","House Committee on Health Care",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38",NA,"House Committee on Agriculture & Natural Resources",NA,NA,NA,NA,NA,NA,NA,NA
+"39",NA,"House Committee on Appropriations",NA,NA,NA,NA,NA,NA,NA,NA
+"40",NA,"House Committee on Health Care",NA,NA,NA,NA,NA,NA,NA,NA
+"41",NA,"House Committee on Higher Education",NA,NA,NA,NA,NA,NA,NA,NA
+"42",NA,"House Committee on Judiciary",NA,NA,NA,NA,NA,NA,NA,NA
+"43",NA,"House Committee on Juvenile Justice & Family Law",NA,NA,NA,NA,NA,NA,NA,NA
+"44",NA,"House Committee on Local Government",NA,NA,NA,NA,NA,NA,NA,NA
+"45",NA,"House Committee on Rules",NA,NA,NA,NA,NA,NA,NA,NA
+"46",NA,"House Committee on State Government",NA,NA,NA,NA,NA,NA,NA,NA
+"47",NA,"House Committee on Technology, Telecommunications & Energy",NA,NA,NA,NA,NA,NA,NA,NA
+"48",NA,"House Committee on Trade & Economic Development",NA,NA,NA,NA,NA,NA,NA,NA
+"49",NA,"House Committee on Transportation",NA,NA,NA,NA,NA,NA,NA,NA
+"50",NA,"House Committee on Capital Budget",NA,NA,NA,NA,NA,NA,NA,NA
+"51",NA,"Senate Committee on Agriculture",NA,NA,NA,NA,NA,NA,NA,NA
+"52",NA,"Senate Committee on Children & Family Services & Corrections",NA,NA,NA,NA,NA,NA,NA,NA
+"53",NA,"Senate Committee on Commerce & Trade",NA,NA,NA,NA,NA,NA,NA,NA
+"54",NA,"Senate Committee on Economic Development",NA,NA,NA,NA,NA,NA,NA,NA
+"55",NA,"Senate Committee on Education",NA,NA,NA,NA,NA,NA,NA,NA
+"56",NA,"Senate Committee on Financial Services, Insurance & Housing",NA,NA,NA,NA,NA,NA,NA,NA
+"57",NA,"Senate Committee on Government Operations & Elections",NA,NA,NA,NA,NA,NA,NA,NA
+"58",NA,"Senate Committee on Health & Long-Term Care",NA,NA,NA,NA,NA,NA,NA,NA
+"59",NA,"Senate Committee on Higher Education",NA,NA,NA,NA,NA,NA,NA,NA
+"60",NA,"Senate Committee on Highways & Transportation",NA,NA,NA,NA,NA,NA,NA,NA
+"61",NA,"House Committee on Children & Family Services",NA,NA,NA,NA,NA,NA,NA,NA
+"62",NA,"Senate Committee on Judiciary",NA,NA,NA,NA,NA,NA,NA,NA
+"63",NA,"Senate Committee on Land Use & Planning",NA,NA,NA,NA,NA,NA,NA,NA
+"64",NA,"Senate Committee on Natural Resources, Energy & Water",NA,NA,NA,NA,NA,NA,NA,NA
+"65",NA,"Senate Committee on Parks, Fish & Wildlife",NA,NA,NA,NA,NA,NA,NA,NA
+"66",NA,"Senate Committee on Rules",NA,NA,NA,NA,NA,NA,NA,NA
+"67",NA,"Senate Committee on Technology & Communications",NA,NA,NA,NA,NA,NA,NA,NA
+"68",NA,"Senate Committee on Ways & Means",NA,NA,NA,NA,NA,NA,NA,NA
+"69",NA,"House Committee on Commerce & Labor",NA,NA,NA,NA,NA,NA,NA,NA
+"70",NA,"House Committee on Criminal Justice & Corrections",NA,NA,NA,NA,NA,NA,NA,NA
+"71",NA,"House Committee on Education",NA,NA,NA,NA,NA,NA,NA,NA
+"72",NA,"House Committee on Finance",NA,NA,NA,NA,NA,NA,NA,NA
+"73",NA,"House Committee on Financial Institutions & Insurance",NA,NA,NA,NA,NA,NA,NA,NA
+"74",NA,"House Committee on Fisheries, Ecology & Parks",NA,NA,NA,NA,NA,NA,NA,NA
+"75",NA,NA,"House Committee on Appropriations",NA,NA,NA,NA,NA,NA,NA
+"76",NA,NA,"House Committee on Capital Budget",NA,NA,NA,NA,NA,NA,NA
+"77",NA,NA,"House Committee on Health Care & Wellness",NA,NA,NA,NA,NA,NA,NA
+"78",NA,NA,"House Committee on Higher Education",NA,NA,NA,NA,NA,NA,NA
+"79",NA,NA,"House Committee on Higher Education & Workforce Education",NA,NA,NA,NA,NA,NA,NA
+"80",NA,NA,"House Committee on Housing",NA,NA,NA,NA,NA,NA,NA
+"81",NA,NA,"House Committee on Judiciary",NA,NA,NA,NA,NA,NA,NA
+"82",NA,NA,"House Committee on Juvenile Justice & Family Law",NA,NA,NA,NA,NA,NA,NA
+"83",NA,NA,"House Committee on Local Government",NA,NA,NA,NA,NA,NA,NA
+"84",NA,NA,"House Committee on Natural Resources, Ecology & Parks",NA,NA,NA,NA,NA,NA,NA
+"85",NA,NA,"House Committee on Rules",NA,NA,NA,NA,NA,NA,NA
+"86",NA,NA,"House Committee on Select Committee on Hood Canal",NA,NA,NA,NA,NA,NA,NA
+"87",NA,NA,"House Committee on Children & Family Services",NA,NA,NA,NA,NA,NA,NA
+"88",NA,NA,"House Committee on State Government Operations & Accountability",NA,NA,NA,NA,NA,NA,NA
+"89",NA,NA,"House Committee on Technology, Energy & Communications",NA,NA,NA,NA,NA,NA,NA
+"90",NA,NA,"House Committee on Transportation",NA,NA,NA,NA,NA,NA,NA
+"91",NA,NA,"Senate Committee on Agriculture & Rural Economic Development",NA,NA,NA,NA,NA,NA,NA
+"92",NA,NA,"Senate Committee on Early Learning, K-12 & Higher Education",NA,NA,NA,NA,NA,NA,NA
+"93",NA,NA,"Senate Committee on Financial Institutions & Insurance",NA,NA,NA,NA,NA,NA,NA
+"94",NA,NA,"Senate Committee on Financial Institutions, Housing & Consumer Protection",NA,NA,NA,NA,NA,NA,NA
+"95",NA,NA,"Senate Committee on Government Operations & Elections",NA,NA,NA,NA,NA,NA,NA
+"96",NA,NA,"Senate Committee on Health & Long-Term Care",NA,NA,NA,NA,NA,NA,NA
+"97",NA,NA,"Senate Committee on Human Services & Corrections",NA,NA,NA,NA,NA,NA,NA
+"98",NA,NA,"House Committee on Commerce & Labor",NA,NA,NA,NA,NA,NA,NA
+"99",NA,NA,"Senate Committee on International Trade & Economic Development",NA,NA,NA,NA,NA,NA,NA
+"100",NA,NA,"Senate Committee on Judiciary",NA,NA,NA,NA,NA,NA,NA
+"101",NA,NA,"Senate Committee on Labor, Commerce, Research & Development",NA,NA,NA,NA,NA,NA,NA
+"102",NA,NA,"Senate Committee on Natural Resources, Ocean & Recreation",NA,NA,NA,NA,NA,NA,NA
+"103",NA,NA,"Senate Committee on Rules",NA,NA,NA,NA,NA,NA,NA
+"104",NA,NA,"Senate Committee on Transportation",NA,NA,NA,NA,NA,NA,NA
+"105",NA,NA,"Senate Committee on Water, Energy & Environment",NA,NA,NA,NA,NA,NA,NA
+"106",NA,NA,"Senate Committee on Ways & Means",NA,NA,NA,NA,NA,NA,NA
+"107",NA,NA,"House Committee on Criminal Justice & Corrections",NA,NA,NA,NA,NA,NA,NA
+"108",NA,NA,"House Committee on Economic Development, Agriculture & Trade",NA,NA,NA,NA,NA,NA,NA
+"109",NA,NA,"House Committee on Education",NA,NA,NA,NA,NA,NA,NA
+"110",NA,NA,"House Committee on Finance",NA,NA,NA,NA,NA,NA,NA
+"111",NA,NA,"House Committee on Financial Institutions & Insurance",NA,NA,NA,NA,NA,NA,NA
+"112",NA,NA,"House Committee on Health Care",NA,NA,NA,NA,NA,NA,NA
+"113",NA,NA,NA,"House Committee on Agriculture & Natural Resources",NA,NA,NA,NA,NA,NA
+"114",NA,NA,NA,"House Committee on Appropriations",NA,NA,NA,NA,NA,NA
+"115",NA,NA,NA,"House Committee on Education",NA,NA,NA,NA,NA,NA
+"116",NA,NA,NA,"House Committee on Finance",NA,NA,NA,NA,NA,NA
+"117",NA,NA,NA,"House Committee on Health Care & Wellness",NA,NA,NA,NA,NA,NA
+"118",NA,NA,NA,"House Committee on Higher Education",NA,NA,NA,NA,NA,NA
+"119",NA,NA,NA,"House Committee on Housing",NA,NA,NA,NA,NA,NA
+"120",NA,NA,NA,"House Committee on Human Services",NA,NA,NA,NA,NA,NA
+"121",NA,NA,NA,"House Committee on Insurance, Financial Services & Consumer Protection",NA,NA,NA,NA,NA,NA
+"122",NA,NA,NA,"House Committee on Judiciary",NA,NA,NA,NA,NA,NA
+"123",NA,NA,NA,"House Committee on Local Government",NA,NA,NA,NA,NA,NA
+"124",NA,NA,NA,"House Committee on Public Safety & Emergency Preparedness",NA,NA,NA,NA,NA,NA
+"125",NA,NA,NA,"House Committee on Appropriations Subcommittee on Education",NA,NA,NA,NA,NA,NA
+"126",NA,NA,NA,"House Committee on Rules",NA,NA,NA,NA,NA,NA
+"127",NA,NA,NA,"House Committee on Select Committee on Environmental Health",NA,NA,NA,NA,NA,NA
+"128",NA,NA,NA,"House Committee on Select Committee on Puget Sound",NA,NA,NA,NA,NA,NA
+"129",NA,NA,NA,"House Committee on State Government & Tribal Affairs",NA,NA,NA,NA,NA,NA
+"130",NA,NA,NA,"House Committee on Technology, Energy & Communications",NA,NA,NA,NA,NA,NA
+"131",NA,NA,NA,"House Committee on Transportation",NA,NA,NA,NA,NA,NA
+"132",NA,NA,NA,"Senate Committee on Agriculture & Rural Economic Development",NA,NA,NA,NA,NA,NA
+"133",NA,NA,NA,"Senate Committee on Consumer Protection & Housing",NA,NA,NA,NA,NA,NA
+"134",NA,NA,NA,"Senate Committee on Early Learning & K-12 Education",NA,NA,NA,NA,NA,NA
+"135",NA,NA,NA,"Senate Committee on Economic Development, Trade & Management",NA,NA,NA,NA,NA,NA
+"136",NA,NA,NA,"House Committee on Appropriations Subcommittee on General Government & Audit Review",NA,NA,NA,NA,NA,NA
+"137",NA,NA,NA,"Senate Committee on Financial Institutions & Insurance",NA,NA,NA,NA,NA,NA
+"138",NA,NA,NA,"Senate Committee on Government Operations & Elections",NA,NA,NA,NA,NA,NA
+"139",NA,NA,NA,"Senate Committee on Health & Long-Term Care",NA,NA,NA,NA,NA,NA
+"140",NA,NA,NA,"Senate Committee on Higher Education",NA,NA,NA,NA,NA,NA
+"141",NA,NA,NA,"Senate Committee on Human Services & Corrections",NA,NA,NA,NA,NA,NA
+"142",NA,NA,NA,"Senate Committee on Judiciary",NA,NA,NA,NA,NA,NA
+"143",NA,NA,NA,"Senate Committee on Labor, Commerce, Research & Development",NA,NA,NA,NA,NA,NA
+"144",NA,NA,NA,"Senate Committee on Natural Resources, Ocean & Recreation",NA,NA,NA,NA,NA,NA
+"145",NA,NA,NA,"Senate Committee on Rules",NA,NA,NA,NA,NA,NA
+"146",NA,NA,NA,"Senate Committee on Transportation",NA,NA,NA,NA,NA,NA
+"147",NA,NA,NA,"House Committee on Appropriations Subcommittee on Health & Human Services",NA,NA,NA,NA,NA,NA
+"148",NA,NA,NA,"Senate Committee on Water, Energy & Telecommunications",NA,NA,NA,NA,NA,NA
+"149",NA,NA,NA,"Senate Committee on Ways & Means",NA,NA,NA,NA,NA,NA
+"150",NA,NA,NA,"House Committee on Capital Budget",NA,NA,NA,NA,NA,NA
+"151",NA,NA,NA,"House Committee on Commerce & Labor",NA,NA,NA,NA,NA,NA
+"152",NA,NA,NA,"House Committee on Community & Economic Development & Trade",NA,NA,NA,NA,NA,NA
+"153",NA,NA,NA,"House Committee on Early Learning & Children's Services",NA,NA,NA,NA,NA,NA
+"154",NA,NA,NA,"House Committee on Ecology & Parks",NA,NA,NA,NA,NA,NA
+"155",NA,NA,NA,NA,"House Committee on Agriculture & Natural Resources",NA,NA,NA,NA,NA
+"156",NA,NA,NA,NA,"House Committee on Audit Review & Oversight",NA,NA,NA,NA,NA
+"157",NA,NA,NA,NA,"House Committee on Finance",NA,NA,NA,NA,NA
+"158",NA,NA,NA,NA,"House Committee on Financial Institutions & Insurance",NA,NA,NA,NA,NA
+"159",NA,NA,NA,NA,"House Committee on General Government Appropriations",NA,NA,NA,NA,NA
+"160",NA,NA,NA,NA,"House Committee on Health & Human Services Appropriations",NA,NA,NA,NA,NA
+"161",NA,NA,NA,NA,"House Committee on Health Care & Wellness",NA,NA,NA,NA,NA
+"162",NA,NA,NA,NA,"House Committee on Higher Education",NA,NA,NA,NA,NA
+"163",NA,NA,NA,NA,"House Committee on Human Services",NA,NA,NA,NA,NA
+"164",NA,NA,NA,NA,"House Committee on Judiciary",NA,NA,NA,NA,NA
+"165",NA,NA,NA,NA,"House Committee on Local Government & Housing",NA,NA,NA,NA,NA
+"166",NA,NA,NA,NA,"House Committee on Public Safety & Emergency Preparedness",NA,NA,NA,NA,NA
+"167",NA,NA,NA,NA,"House Committee on Capital Budget",NA,NA,NA,NA,NA
+"168",NA,NA,NA,NA,"House Committee on Rules",NA,NA,NA,NA,NA
+"169",NA,NA,NA,NA,"House Committee on State Government & Tribal Affairs",NA,NA,NA,NA,NA
+"170",NA,NA,NA,NA,"House Committee on Technology, Energy & Communications",NA,NA,NA,NA,NA
+"171",NA,NA,NA,NA,"House Committee on Transportation",NA,NA,NA,NA,NA
+"172",NA,NA,NA,NA,"House Committee on Ways & Means",NA,NA,NA,NA,NA
+"173",NA,NA,NA,NA,"Senate Committee on Agriculture & Rural Economic Development",NA,NA,NA,NA,NA
+"174",NA,NA,NA,NA,"Senate Committee on Early Learning & K-12 Education",NA,NA,NA,NA,NA
+"175",NA,NA,NA,NA,"Senate Committee on Economic Development, Trade & Innovation",NA,NA,NA,NA,NA
+"176",NA,NA,NA,NA,"Senate Committee on Environment, Water & Energy",NA,NA,NA,NA,NA
+"177",NA,NA,NA,NA,"Senate Committee on Financial Institutions, Housing & Insurance",NA,NA,NA,NA,NA
+"178",NA,NA,NA,NA,"House Committee on Commerce & Labor",NA,NA,NA,NA,NA
+"179",NA,NA,NA,NA,"Senate Committee on Government Operations & Elections",NA,NA,NA,NA,NA
+"180",NA,NA,NA,NA,"Senate Committee on Health & Long-Term Care",NA,NA,NA,NA,NA
+"181",NA,NA,NA,NA,"Senate Committee on Higher Education & Workforce Development",NA,NA,NA,NA,NA
+"182",NA,NA,NA,NA,"Senate Committee on Human Services & Corrections",NA,NA,NA,NA,NA
+"183",NA,NA,NA,NA,"Senate Committee on Judiciary",NA,NA,NA,NA,NA
+"184",NA,NA,NA,NA,"Senate Committee on Labor, Commerce & Consumer Protection",NA,NA,NA,NA,NA
+"185",NA,NA,NA,NA,"Senate Committee on Natural Resources, Ocean & Recreation",NA,NA,NA,NA,NA
+"186",NA,NA,NA,NA,"Senate Committee on Rules",NA,NA,NA,NA,NA
+"187",NA,NA,NA,NA,"Senate Committee on Transportation",NA,NA,NA,NA,NA
+"188",NA,NA,NA,NA,"Senate Committee on Ways & Means",NA,NA,NA,NA,NA
+"189",NA,NA,NA,NA,"House Committee on Community & Economic Development & Trade",NA,NA,NA,NA,NA
+"190",NA,NA,NA,NA,"House Committee on Early Learning & Children's Services",NA,NA,NA,NA,NA
+"191",NA,NA,NA,NA,"House Committee on Ecology & Parks",NA,NA,NA,NA,NA
+"192",NA,NA,NA,NA,"House Committee on Education",NA,NA,NA,NA,NA
+"193",NA,NA,NA,NA,"House Committee on Education Appropriations",NA,NA,NA,NA,NA
+"194",NA,NA,NA,NA,"House Committee on Environmental Health",NA,NA,NA,NA,NA
+"195",NA,NA,NA,NA,NA,"House Committee on Agriculture & Natural Resources",NA,NA,NA,NA
+"196",NA,NA,NA,NA,NA,"House Committee on Business & Financial Services",NA,NA,NA,NA
+"197",NA,NA,NA,NA,NA,"House Committee on Health Care & Wellness",NA,NA,NA,NA
+"198",NA,NA,NA,NA,NA,"House Committee on Higher Education",NA,NA,NA,NA
+"199",NA,NA,NA,NA,NA,"House Committee on Judiciary",NA,NA,NA,NA
+"200",NA,NA,NA,NA,NA,"House Committee on Labor & Workforce Development",NA,NA,NA,NA
+"201",NA,NA,NA,NA,NA,"House Committee on Local Government",NA,NA,NA,NA
+"202",NA,NA,NA,NA,NA,"House Committee on Public Safety & Emergency Preparedness",NA,NA,NA,NA
+"203",NA,NA,NA,NA,NA,"House Committee on Rules",NA,NA,NA,NA
+"204",NA,NA,NA,NA,NA,"House Committee on State Government & Tribal Affairs",NA,NA,NA,NA
+"205",NA,NA,NA,NA,NA,"House Committee on Technology, Energy & Communications",NA,NA,NA,NA
+"206",NA,NA,NA,NA,NA,"House Committee on Transportation",NA,NA,NA,NA
+"207",NA,NA,NA,NA,NA,"House Committee on Capital Budget",NA,NA,NA,NA
+"208",NA,NA,NA,NA,NA,"House Committee on Ways & Means",NA,NA,NA,NA
+"209",NA,NA,NA,NA,NA,"Senate Committee on Agriculture & Rural Economic Development",NA,NA,NA,NA
+"210",NA,NA,NA,NA,NA,"Senate Committee on Agriculture, Water & Rural Economic Development",NA,NA,NA,NA
+"211",NA,NA,NA,NA,NA,"Senate Committee on Early Learning & K-12 Education",NA,NA,NA,NA
+"212",NA,NA,NA,NA,NA,"Senate Committee on Economic Development, Trade & Innovation",NA,NA,NA,NA
+"213",NA,NA,NA,NA,NA,"Senate Committee on Energy, Natural Resources & Marine Waters",NA,NA,NA,NA
+"214",NA,NA,NA,NA,NA,"Senate Committee on Environment",NA,NA,NA,NA
+"215",NA,NA,NA,NA,NA,"Senate Committee on Environment, Water & Energy",NA,NA,NA,NA
+"216",NA,NA,NA,NA,NA,"Senate Committee on Financial Institutions, Housing & Insurance",NA,NA,NA,NA
+"217",NA,NA,NA,NA,NA,"Senate Committee on Government Operations, Tribal Relations & Elections",NA,NA,NA,NA
+"218",NA,NA,NA,NA,NA,"House Committee on Community & Economic Development & Housing",NA,NA,NA,NA
+"219",NA,NA,NA,NA,NA,"Senate Committee on Health & Long-Term Care",NA,NA,NA,NA
+"220",NA,NA,NA,NA,NA,"Senate Committee on Higher Education & Workforce Development",NA,NA,NA,NA
+"221",NA,NA,NA,NA,NA,"Senate Committee on Human Services & Corrections",NA,NA,NA,NA
+"222",NA,NA,NA,NA,NA,"Senate Committee on Judiciary",NA,NA,NA,NA
+"223",NA,NA,NA,NA,NA,"Senate Committee on Labor, Commerce & Consumer Protection",NA,NA,NA,NA
+"224",NA,NA,NA,NA,NA,"Senate Committee on Natural Resources & Marine Waters",NA,NA,NA,NA
+"225",NA,NA,NA,NA,NA,"Senate Committee on Rules",NA,NA,NA,NA
+"226",NA,NA,NA,NA,NA,"Senate Committee on Transportation",NA,NA,NA,NA
+"227",NA,NA,NA,NA,NA,"Senate Committee on Ways & Means",NA,NA,NA,NA
+"228",NA,NA,NA,NA,NA,"House Committee on Early Learning & Human Services",NA,NA,NA,NA
+"229",NA,NA,NA,NA,NA,"House Committee on Education",NA,NA,NA,NA
+"230",NA,NA,NA,NA,NA,"House Committee on Education Appropriations & Oversight",NA,NA,NA,NA
+"231",NA,NA,NA,NA,NA,"House Committee on Environment",NA,NA,NA,NA
+"232",NA,NA,NA,NA,NA,"House Committee on General Government Appropriations & Oversight",NA,NA,NA,NA
+"233",NA,NA,NA,NA,NA,"House Committee on Health & Human Services Appropriations & Oversight",NA,NA,NA,NA
+"234",NA,NA,NA,NA,NA,NA,"House Committee on Agriculture & Natural Resources",NA,NA,NA
+"235",NA,NA,NA,NA,NA,NA,"House Committee on Appropriations",NA,NA,NA
+"236",NA,NA,NA,NA,NA,NA,"House Committee on Environment",NA,NA,NA
+"237",NA,NA,NA,NA,NA,NA,"House Committee on Finance",NA,NA,NA
+"238",NA,NA,NA,NA,NA,NA,"House Committee on Government Accountability & Oversight",NA,NA,NA
+"239",NA,NA,NA,NA,NA,NA,"House Committee on Government Operations & Elections",NA,NA,NA
+"240",NA,NA,NA,NA,NA,NA,"House Committee on Health Care & Wellness",NA,NA,NA
+"241",NA,NA,NA,NA,NA,NA,"House Committee on Higher Education",NA,NA,NA
+"242",NA,NA,NA,NA,NA,NA,"House Committee on Judiciary",NA,NA,NA
+"243",NA,NA,NA,NA,NA,NA,"House Committee on Labor & Workforce Development",NA,NA,NA
+"244",NA,NA,NA,NA,NA,NA,"House Committee on Local Government",NA,NA,NA
+"245",NA,NA,NA,NA,NA,NA,"House Committee on Public Safety",NA,NA,NA
+"246",NA,NA,NA,NA,NA,NA,"House Committee on Appropriations Subcommittee on Education",NA,NA,NA
+"247",NA,NA,NA,NA,NA,NA,"House Committee on Rules",NA,NA,NA
+"248",NA,NA,NA,NA,NA,NA,"House Committee on Technology & Economic Development",NA,NA,NA
+"249",NA,NA,NA,NA,NA,NA,"House Committee on Transportation",NA,NA,NA
+"250",NA,NA,NA,NA,NA,NA,"Senate Committee on Agriculture, Water & Rural Economic Development",NA,NA,NA
+"251",NA,NA,NA,NA,NA,NA,"Senate Committee on Commerce & Labor",NA,NA,NA
+"252",NA,NA,NA,NA,NA,NA,"Senate Committee on Early Learning & K-12 Education",NA,NA,NA
+"253",NA,NA,NA,NA,NA,NA,"Senate Committee on Energy, Environment & Telecommunications",NA,NA,NA
+"254",NA,NA,NA,NA,NA,NA,"Senate Committee on Financial Institutions, Housing & Insurance",NA,NA,NA
+"255",NA,NA,NA,NA,NA,NA,"Senate Committee on Governmental Operations",NA,NA,NA
+"256",NA,NA,NA,NA,NA,NA,"Senate Committee on Health Care",NA,NA,NA
+"257",NA,NA,NA,NA,NA,NA,"House Committee on Appropriations Subcommittee on General Government & Information Technology",NA,NA,NA
+"258",NA,NA,NA,NA,NA,NA,"Senate Committee on Higher Education",NA,NA,NA
+"259",NA,NA,NA,NA,NA,NA,"Senate Committee on Human Services & Corrections",NA,NA,NA
+"260",NA,NA,NA,NA,NA,NA,"Senate Committee on Law & Justice",NA,NA,NA
+"261",NA,NA,NA,NA,NA,NA,"Senate Committee on Natural Resources & Parks",NA,NA,NA
+"262",NA,NA,NA,NA,NA,NA,"Senate Committee on Rules",NA,NA,NA
+"263",NA,NA,NA,NA,NA,NA,"Senate Committee on Trade & Economic Development",NA,NA,NA
+"264",NA,NA,NA,NA,NA,NA,"Senate Committee on Transportation",NA,NA,NA
+"265",NA,NA,NA,NA,NA,NA,"Senate Committee on Ways & Means",NA,NA,NA
+"266",NA,NA,NA,NA,NA,NA,"House Committee on Appropriations Subcommittee on Health & Human Services",NA,NA,NA
+"267",NA,NA,NA,NA,NA,NA,"House Committee on Business & Financial Services",NA,NA,NA
+"268",NA,NA,NA,NA,NA,NA,"House Committee on Capital Budget",NA,NA,NA
+"269",NA,NA,NA,NA,NA,NA,"House Committee on Community Development, Housing & Tribal Affairs",NA,NA,NA
+"270",NA,NA,NA,NA,NA,NA,"House Committee on Early Learning & Human Services",NA,NA,NA
+"271",NA,NA,NA,NA,NA,NA,"House Committee on Education",NA,NA,NA
+"272",NA,NA,NA,NA,NA,NA,NA,"House Committee on Agriculture & Natural Resources",NA,NA
+"273",NA,NA,NA,NA,NA,NA,NA,"House Committee on Appropriations",NA,NA
+"274",NA,NA,NA,NA,NA,NA,NA,"House Committee on General Government & Information Technology",NA,NA
+"275",NA,NA,NA,NA,NA,NA,NA,"House Committee on Health Care & Wellness",NA,NA
+"276",NA,NA,NA,NA,NA,NA,NA,"House Committee on Higher Education",NA,NA
+"277",NA,NA,NA,NA,NA,NA,NA,"House Committee on Judiciary",NA,NA
+"278",NA,NA,NA,NA,NA,NA,NA,"House Committee on Labor & Workplace Standards",NA,NA
+"279",NA,NA,NA,NA,NA,NA,NA,"House Committee on Local Government",NA,NA
+"280",NA,NA,NA,NA,NA,NA,NA,"House Committee on Public Safety",NA,NA
+"281",NA,NA,NA,NA,NA,NA,NA,"House Committee on Rules",NA,NA
+"282",NA,NA,NA,NA,NA,NA,NA,"House Committee on State Government",NA,NA
+"283",NA,NA,NA,NA,NA,NA,NA,"House Committee on Technology & Economic Development",NA,NA
+"284",NA,NA,NA,NA,NA,NA,NA,"House Committee on Business & Financial Services",NA,NA
+"285",NA,NA,NA,NA,NA,NA,NA,"House Committee on Transportation",NA,NA
+"286",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Accountability & Reform",NA,NA
+"287",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Agriculture, Water & Rural Economic Development",NA,NA
+"288",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Commerce & Labor",NA,NA
+"289",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Early Learning & K-12 Education",NA,NA
+"290",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Energy, Environment & Telecommunications",NA,NA
+"291",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Financial Institutions & Insurance",NA,NA
+"292",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Government Operations & Security",NA,NA
+"293",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Health Care",NA,NA
+"294",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Higher Education",NA,NA
+"295",NA,NA,NA,NA,NA,NA,NA,"House Committee on Capital Budget",NA,NA
+"296",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Human Services, Mental Health & Housing",NA,NA
+"297",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Law & Justice",NA,NA
+"298",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Natural Resources & Parks",NA,NA
+"299",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Rules",NA,NA
+"300",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Trade & Economic Development",NA,NA
+"301",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Transportation",NA,NA
+"302",NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Ways & Means",NA,NA
+"303",NA,NA,NA,NA,NA,NA,NA,"House Committee on Commerce & Gaming",NA,NA
+"304",NA,NA,NA,NA,NA,NA,NA,"House Committee on Community Development, Housing & Tribal Affairs",NA,NA
+"305",NA,NA,NA,NA,NA,NA,NA,"House Committee on Early Learning & Human Services",NA,NA
+"306",NA,NA,NA,NA,NA,NA,NA,"House Committee on Education",NA,NA
+"307",NA,NA,NA,NA,NA,NA,NA,"House Committee on Environment",NA,NA
+"308",NA,NA,NA,NA,NA,NA,NA,"House Committee on Finance",NA,NA
+"309",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Agriculture & Natural Resources",NA
+"310",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Appropriations",NA
+"311",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Health Care & Wellness",NA
+"312",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Higher Education",NA
+"313",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Judiciary",NA
+"314",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Labor & Workplace Standards",NA
+"315",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Local Government",NA
+"316",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Public Safety",NA
+"317",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Rules",NA
+"318",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on State Government, Elections & Information Technology",NA
+"319",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Technology & Economic Development",NA
+"320",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Transportation",NA
+"321",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Business & Financial Services",NA
+"322",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Agriculture, Water, Natural Resources & Parks",NA
+"323",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Agriculture, Water, Trade & Economic Development",NA
+"324",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Commerce, Labor & Sports",NA
+"325",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Early Learning & K-12 Education",NA
+"326",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Economic Development & International Trade",NA
+"327",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Energy, Environment & Technology",NA
+"328",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Energy, Environment & Telecommunications",NA
+"329",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Financial Institutions & Insurance",NA
+"330",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Health & Long Term Care",NA
+"331",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Health Care",NA
+"332",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Capital Budget",NA
+"333",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Higher Education",NA
+"334",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Higher Education & Workforce Development",NA
+"335",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Human Services & Corrections",NA
+"336",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Human Services, Mental Health & Housing",NA
+"337",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Labor & Commerce",NA
+"338",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Law & Justice",NA
+"339",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Local Government",NA
+"340",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Natural Resources & Parks",NA
+"341",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Rules",NA
+"342",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on State Government",NA
+"343",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Commerce & Gaming",NA
+"344",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on State Government, Tribal Relations & Elections",NA
+"345",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Transportation",NA
+"346",NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Ways & Means",NA
+"347",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Community Development, Housing & Tribal Affairs",NA
+"348",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Early Learning & Human Services",NA
+"349",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Education",NA
+"350",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Environment",NA
+"351",NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Finance",NA
+"352",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Appropriations"
+"353",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Capital Budget"
+"354",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Housing, Community Development & Veterans"
+"355",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Human Services & Early Learning"
+"356",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Innovation, Technology & Economic Development"
+"357",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Labor & Workplace Standards"
+"358",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Local Government"
+"359",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Public Safety"
+"360",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Rules"
+"361",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Rural Development, Agriculture, & Natural Resources"
+"362",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on State Government & Tribal Relations"
+"363",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Transportation"
+"364",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Civil Rights & Judiciary"
+"365",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Agriculture, Water, Natural Resources & Parks"
+"366",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Behavioral Health Subcommittee to Health & Long Term Care"
+"367",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Early Learning & K-12 Education"
+"368",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Environment, Energy & Technology"
+"369",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Financial Institutions, Economic Development & Trade"
+"370",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Health & Long Term Care"
+"371",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Higher Education & Workforce Development"
+"372",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Housing Stability & Affordability"
+"373",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Human Services, Reentry & Rehabilitation"
+"374",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Labor & Commerce"
+"375",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on College & Workforce Development"
+"376",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Law & Justice"
+"377",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Local Government"
+"378",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Rules"
+"379",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on State Government, Tribal Relations & Elections"
+"380",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Transportation"
+"381",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Senate Committee on Ways & Means"
+"382",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Commerce & Gaming"
+"383",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Consumer Protection & Business"
+"384",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Education"
+"385",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Environment & Energy"
+"386",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Finance"
+"387",NA,NA,NA,NA,NA,NA,NA,NA,NA,"House Committee on Health Care & Wellness"
