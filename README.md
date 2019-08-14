@@ -18,7 +18,7 @@ The current version as of 8/11/2019 contains complete data for all legislation, 
 
 ## *Data Architecture*
 
-The current version as of 8/11/2019 contains a SQLite database named `WashEx-db.sqlite`, which contains all of the data scraped and processed from the Washington State Legislature's [legislative services API](wslwebservices.leg.wa.gov) that is implemented in the project. Below is a description of the contents and architecture of the database.
+The current version as of 8/11/2019 contains a SQLite database named `WashEx-db.sqlite`, which contains all of the data scraped and processed from the Washington State Legislature's [legislative services API](http://wslwebservices.leg.wa.gov) that is implemented in the project. Below is a description of the contents and architecture of the database.
 
 ## *Database tables*
 
@@ -92,7 +92,7 @@ Below is a description of the variables contained in each table of the SQLite da
 
 * HistoryLine: text from the API detailing legislative action
 
-**Sessions**
+**Sessions<a name="SessDates">**
 
 * biennium: biennium for the congress listed
 * cong: two-year congress number, representing the *n*th congress since 1889
