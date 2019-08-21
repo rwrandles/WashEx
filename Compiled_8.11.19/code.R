@@ -8,7 +8,7 @@ library(DBI) ## For SQLite database functions
 library(RSQLite) ## For SQLite database functions
 library(lubridate)
 
-setwd(" ") ## Set working directory to location of WashEx folder
+setwd("C:/Users/Rohnin/Documents/R Stuff/WashEx/Compiled_8.11.19/") ## Set working directory to location of WashEx folder
 
 #################################
 ## A - Data scraping functions ##
@@ -270,10 +270,6 @@ master_comms <- master_comms %>% select(CommitteeId, Biennium, Acronym, Agency, 
 
 ## Committee Reassignment
 
-## Deactivating rules committees
-
-master_comms$Active[master_comms$Name == "Rules"] = FALSE
-
 ##
 ## 2017-18
 ##
@@ -290,7 +286,7 @@ master_comms$CommitteeId[master_comms$Name == "Higher Education" &
                            master_comms$Biennium == "2017-18"] <- master_comms$CommitteeId[master_comms$Name == "Higher Education & Workforce Development" & 
                                                                                              master_comms$Biennium == "2017-18"]
 
-master_comms$Active[master_comms$Name == "Higher Education & Workforce Development" & 
+master_comms$CommitteeId[master_comms$Name == "Higher Education & Workforce Development" & 
                            master_comms$Biennium == "2017-18"] = FALSE
 
 ##
@@ -407,8 +403,6 @@ for(biennium in biennium_list){
   raw_bills <- bind_rows(raw_bills, biennium_bills) %>% select(Biennium, BillId, BillNumber)
 }
 
-raw_bills <- distinct(raw_bills)
-
 ## Set the sample size for random sampling. This will choose n bills from EACH biennium (currently 10 biennia).
 
 ## For each biennium:
@@ -424,14 +418,13 @@ raw_bills <- distinct(raw_bills)
 for(biennium in biennium_list){
   year_bills <- raw_bills[which(raw_bills$Biennium == biennium) ,]
   
-  for(bill in 1:nrow(year_bills)) {
+  for(bill in 1:nrow(year_bills)){
     current_bill <- getLegislation(year_bills$Biennium[bill], year_bills$BillNumber[bill])
     
-    current_bill$PrimeSponsorID = ifelse(grepl("GA", current_bill$BillId), "GOV", current_bill$PrimeSponsorID)
+    if(grepl("GA", bill$BillId)){
+      bill$PrimeSponsorID = "GOV" }
     
     master_bills <- bind_rows(master_bills, current_bill)
-    
-    if(bill %% 100 == 0){ print(bill) }
   }
 }
 
@@ -448,8 +441,6 @@ master_bills <- master_bills %>% mutate(billUrl =
 master_bills <- master_bills %>% select(BillId, BillNumber, 
                                         
                                         Biennium, LegalTitle, IntroducedDate, Sponsor, PrimeSponsorID, LongDescription, billUrl)
-
-master_bills <- distinct(master_bills)
 
 ## Generate action table
 
@@ -468,19 +459,13 @@ for(bill in 1:nrow(master_bills)){
   current_action <- current_action %>% mutate(Biennium = master_bills$Biennium[bill])
   
   raw_actions <- bind_rows(raw_actions, current_action)
-  
-  if(bill %% 100 == 0){ print(bill) }
 }
-
-raw_actions$ActionDate <- substr(raw_actions$ActionDate, 1, 10)
-
-raw_actions <- distinct(raw_actions)
 
 #####################################################
 ## C - Parses actions into congressional locations ##
 #####################################################
 
-actionTableCopy <- raw_actions ## first, create a copy of the raw actions table for modification
+actionTableCopy <- distinct(raw_actions) ## first, create a copy of the raw actions table for modification
 actionTableCopy$Status <- sapply(actionTableCopy$Status, trimws) ## remove all whitespace from the "status" column
 
 len = nrow(actionTableCopy)
@@ -489,7 +474,6 @@ actionTableCopy$locId = rep(NA, len) # create a column called "locId" which will
 actionTableFinal = data.frame() # the actionTable that all biennium-based actionTables are put into
 
 for (biennium in biennium_list){
-  print(biennium)
   counter = 1
   
   subset_bi_df = master_comms[which(master_comms$Biennium==biennium),] # committees in that biennium
@@ -563,16 +547,16 @@ for (biennium in biennium_list){
         }
         
         if (grepl(paste("eturned to", paste(location_flag, "Rules Committee")), d)){
-          actionTableBiennium$locId[counter] = paste(substr(location_flag, 1, 1), "RL", sep = "") }
+          actionTableBiennium$locIdp[counter] = paste(substr(location_flag, 1, 1), "RL", sep = "") }
         
         if (grepl(paste("eturned to", paste(location_flag, "Rules \"X\" file")), d)){
-          actionTableBiennium$locId[counter] = paste(substr(location_flag, 1, 1), "RL", sep = "") }
+          actionTableBiennium$locIdp[counter] = paste(substr(location_flag, 1, 1), "RL", sep = "") }
         
         if (grepl("by Rules Committee", d)){
-          actionTableBiennium$locId[counter] = paste(substr(location_flag, 1, 1), "RL", sep = "") }
+          actionTableBiennium$locIdp[counter] = paste(substr(location_flag, 1, 1), "RL", sep = "") }
         
         if (grepl("passed to Rules|Passed to Rules", d)){
-          actionTableBiennium$locId[counter] = paste(substr(location_flag, 1, 1), "RL", sep = "") }
+          actionTableBiennium$locIdp[counter] = paste(substr(location_flag, 1, 1), "RL", sep = "") }
         
         #House/Senate Rule Committee
         #if (grepl(paste("eturned to", paste(location_flag, "Rules Committee")), d)){ #looks for "returned to House/Senate Rules Committee"
@@ -602,7 +586,7 @@ for (biennium in biennium_list){
         if (location_flag == "House"){
           #if true, then this description is in the house
           
-          if (grepl("hird reading|Third Reading|inal passage", d)){
+          if (grepl("hird reading|Third Reading|Final passage", d)){
             actionTableBiennium$locId[counter] = "HFL" }
           
           if (grepl("Ways & Means", d)){
@@ -620,7 +604,7 @@ for (biennium in biennium_list){
         if (location_flag == "Senate"){
           #if true, then this description is in the senate
           
-          if (grepl("hird reading|Third Reading|inal passage", d)){
+          if (grepl("hird reading|Third Reading|Final passage", d)){
             actionTableBiennium$locId[counter] = "SFL" }
           
           if (grepl("Ways & Means", d)){
@@ -654,10 +638,6 @@ for (biennium in biennium_list){
       #if true, then governor partially vetoed bill
       actionTableBiennium$locId[counter] = "PVT" }
     
-    if(grepl("overridden", d)){
-      #if true, then legislature overrode veto
-      actionTableBiennium$locId[counter] = "OVR" }
-    
     if (grepl("Speaker signed", d)){
       #if true, then house speaker signed bill
       actionTableBiennium$locId[counter] = "SPK" }
@@ -684,7 +664,6 @@ for (biennium in biennium_list){
           location_flag = "House" }
       }} 
     
-    if(counter %% 100 == 0){ print(counter) }
     counter = counter + 1
     
     
@@ -693,29 +672,22 @@ for (biennium in biennium_list){
   
 }
 
-master_actions <- actionTableFinal[complete.cases(actionTableFinal[, "locId"]) ,] %>% select(BillId, Biennium, ActionDate, SessionAct, locId, HistoryLine)
+master_actions <- actionTableFinal[complete.cases(actionTableFinal[, 10]) ,] %>% select(BillId, Biennium, ActionDate, locId, HistoryLine)
 
 ## Session dates
 
 sessDates <- read.csv("sessDates.csv", header = TRUE, stringsAsFactors = FALSE,
                       fileEncoding = "UTF-8-BOM")
 
-sessionNum <- c()
+#######################
+## D - Parsing votes ##
+#######################
 
-for(biennium in biennium_list){
-  sessionNum[which(ymd(actionTableFinal$ActionDate) %within% 
-                     interval(ymd(sessDates$StartDate_S1[sessDates$biennium == biennium]), 
-                              ymd(sessDates$EndDate_S1[sessDates$biennium == biennium])))] = "S1"
-  sessionNum[which(ymd(actionTableFinal$ActionDate) %within% 
-                     interval(ymd(sessDates$StartDate_S2[sessDates$biennium == biennium]), 
-                              ymd(sessDates$EndDate_S2[sessDates$biennium == biennium])))] = "S2"
-  sessionNum[which(is.na(sessionNum))] = "SS"
-}
+#billsVote <- master_actions$BillId[grepl("yeas", master_actions$HistoryLine)]
 
-actionTableFinal <- actionTableFinal %>% mutate(SessionAct = sessionNum)
 
 ##########################
-## D - SQLite Packaging ##
+## E - SQLite Packaging ##
 ##########################
 
 WashEx <- dbConnect(RSQLite::SQLite(), dbname = "WashEx-db.sqlite")
