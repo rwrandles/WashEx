@@ -54,7 +54,7 @@ Below is a description of the variables contained in each table of the SQLite da
 * Sponsor: name of the primary sponsor of the bill or substitute bill
 * primeSponsorID: unique identifier linked to the [same field](#sponsID) in the Sponsors table, unless in the event of a gubernatorial appointment in which case the field will be marked "GOV_YY" with YY representing the year of the biennium
 * majSpons: boolean flag for whether the bill's primary sponsor was a member of the majority party
-* ;ongDescription: description of the bill's contents in relation to the topic and intent of the bill
+* longDescription: description of the bill's contents in relation to the topic and intent of the bill
 * billUrl: link to a PDF of the bill located on the Washington State Legislature's website
 * firstRef: long name of the committee of original referral
 * isChair: boolean flag for whether the primary sponsor was the chair of the committee of original referral
