@@ -1,0 +1,17 @@
+001	WashEx-source-functions.R not found in working directory.%nPlease replace file and/or refer to WashEx code guide.
+002	WashEx-db.sqlite not found in working directory.%nPlease replace file or run a full build of the table. For further information, refer to WashEx code guide.
+101	Could not load committees.%nPlease try again later or refer to WashEx code guide.
+102	API committee scrape error.%nPlease try again later or refer to WashEx code guide.
+201	Could not load sponsors.%nPlease try again later or refer to WashEx code guide.
+202	API sponsors scrape error.%nPlease try again later or refer to WashEx code guide.
+203	sponsor_gender.csv not found in working directory.%nPlease replace file and/or refer to WashEx code guide.
+204	WAgov.csv not found in working directory.%nPlease replace file and/or refer to WashEx code guide.
+205	Governor entry for %b% missing.%nPlease correct in WAgov.csv. For further information, refer to WashEx code guide.
+301	Could not load bills.%nPlease try again later or refer to WashEx code guide.
+302	Bill information scrape error.%nPlease try again later or refer to WashEx code guide.
+303	legMajorities.csv not found in working directory.%nPlease replace file and/or refer to WashEx code guide.
+304	Legislative majority entry for %y% missing.%nPlease correct in legMajorities.csv. For further information, refer to WashEx code guide.
+401	Legislative action scrape error.%nPlease try again later or refer to WashEx code guide.
+501	comm_changefile.csv not found in working directory.%nPlease replace file and/or refer to WashEx code guide.
+601	sessDates.csv not found in working directory.%nPlease replace file and/or refer to WashEx code guide.
+901	!Warning! There are missing genders in the sponsors table.%nProvide corrected information in gender_fixfile.csv and/or refer to WashEx code guide for further information.
